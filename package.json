@@ -1,0 +1,14 @@
+{
+  "name": "learn-git",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "nikaple",
+  "license": "ISC"
+}
